@@ -1,16 +1,19 @@
-# posecheck_datacollector
+# TrAIner Data Collector 📊
 
-A new Flutter project.
+## About 📝
 
-## Getting Started
+This is an Android application developed to gather and label squat pose data. This data is crucial for training the rep-counting classifier used in the TrAIner app.
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- Record squat sessions
+- Label frames as "Up" or "Down" with real-time video playback
+- Generate CSV files with pose data and labels
+- Built-in file explorer for managing CSV files
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage 🔍
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Record a squat session
+2. Label each frame as "Up" or "Down"
+3. Generate and save the CSV file
+4. Use the file explorer to manage saved data
